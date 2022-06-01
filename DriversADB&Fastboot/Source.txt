@@ -1,0 +1,5 @@
+English:
+The drivers were obtained from the developer.android.com page and are version R13. In case you prefer to download them from that page.
+
+Spanish:
+Los drivers fueron obtenidos de la pagina de developer.android.com y son la version R13. Por si preferis descargarlos de esa pagina.
