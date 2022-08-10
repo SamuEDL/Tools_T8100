@@ -1,4 +1,4 @@
-# Ocu T8100 (AKA Lamentablet 2021)
+# Ocu T8100 (AKA Lamentablet 2021/22)
 
 ## Features/Caracteristicas:
     CPU: Allwinner A100 (QuadCore Cortex-A53 1,5Ghz)
