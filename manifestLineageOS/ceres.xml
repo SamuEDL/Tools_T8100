@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <!-- Device Trees -->
+   <project path="device/s/T8100" name="android_device_s_T8100" revision="lineage-18.1" remote="lineageos-on-allwinner" />
+   <project path="device/s/ceres-common" name="android_device_s_ceres-common" revision="lineage-18.1" remote="lineageos-on-allwinner" />
+
+   <!-- Vendor Trees -->
+   <project path="vendor/s/" name="android_vendor_s" revision="lineage-18.1" remote="lineageos-on-allwinner" />
+
+   <!-- Kernel Source -->
+   <project path="kernel/s/T8100" name="android_device_s_T8100-kernel" revision="lineage-18.1" remote="lineageos-on-allwinner" />
+
+   <!-- Hardware Components -->
+   <project path="hardware/mediatek" name="android_hardware_aw" revision="lineage-18.1" remote="lineageos-on-allwinner" />
+</manifest>
