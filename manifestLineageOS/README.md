@@ -1,1 +1,1 @@
-The manifest is not tested.
+The manifest (ceres.xml) is not tested.
