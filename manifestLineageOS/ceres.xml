@@ -11,5 +11,5 @@
    <project path="kernel/s/T8100" name="android_device_s_T8100-kernel" revision="lineage-18.1" remote="lineageos-on-allwinner" />
 
    <!-- Hardware Components -->
-   <project path="hardware/mediatek" name="android_hardware_aw" revision="lineage-18.1" remote="lineageos-on-allwinner" />
+   <project path="hardware/aw" name="android_hardware_aw" revision="lineage-18.1" remote="lineageos-on-allwinner" />
 </manifest>
