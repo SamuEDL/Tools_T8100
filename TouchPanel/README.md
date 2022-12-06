@@ -15,8 +15,10 @@ Fw_extractor tool: https://github.com/onitake/gsl-firmware
 |---------------------------|-------------|
 | Manufacturer              | S       |
 | Device                    | T8100  |
+| Android                   | 10  |
+| Kernel                    | 4.9.170  |
 | Vendor driver (Android)   | Extracted from Stock (ceres_b3-user-10-QP1A.191105.004-eng.bnd_xn.20201015.171902-release-keys) |
-| Extracted firmware        | https://github.com/SamuEDL/Tools_T8100/blob/main/TouchPanel/Extracted%20firmware/gslX680new.ko |
+| Unextracted firmware      | [gslX680new.ko](https://github.com/SamuEDL/Tools_T8100/blob/main/TouchPanel/Unextracted%20Firmware/gslX680new.ko) |
 | Display resolution        | 1280x800 |
 | Touch panel resolution    | 1280x800 |
 | Touch controller          | GSL3676 |
