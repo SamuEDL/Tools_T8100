@@ -8,7 +8,7 @@ El firmware del panel tactil ha sido extraído de Android 10 (ceres_b3-user-10-Q
 
 Fw_extractor tool: https://github.com/onitake/gsl-firmware
 
-##S T8100
+## S T8100
 ---------------------------------------------
 
 | Item                      | Description |
