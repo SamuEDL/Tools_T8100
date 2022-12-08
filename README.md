@@ -1,5 +1,7 @@
 # Ocu T8100 (AKA Lamentablet 2021/22)
 
+![T8100 foto](https://github.com/SamuEDL/Tools_T8100/blob/main/t8100.png?raw=true)
+
 ## Features/Caracteristicas:
 | Item                      | Description |
 |---------------------------|-------------|
