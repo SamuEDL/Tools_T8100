@@ -2,7 +2,7 @@ TWRP 3.5.1_10
 Kernel Prebuilt Stock Rom
 STATUS PRE-ALPHA
 
-I** TS USE IS NOT RECOMMENDED. ***
+# ITS USE IS NOT RECOMMENDED. 
 
 Working:
 - Screen
