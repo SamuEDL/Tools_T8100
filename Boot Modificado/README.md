@@ -6,4 +6,5 @@
 
 
 Note: Here there will only be kernels that are 100% compatible with the T8100
+
 Nota 2: The F2FS kernels are untested, and it is not known if it works. Waiting for compatible rom.
