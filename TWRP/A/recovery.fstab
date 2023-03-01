@@ -14,7 +14,3 @@ product                                                /product     ext4     ro,
 /dev/block/by-name/super                               /super       emmc     defaults                     defaults
 /dev/block/by-name/frp                                 /persistent  emmc     defaults                     defaults
 /dev/block/zram0                                       none         swap     defaults                     zramsize=75%
-/devices/platform/soc/sdc0/mmc_host/mmc*               auto         auto     defaults                     voldmanaged=extsd:auto,encryptable=footer
-/devices/platform/soc/usbc0/usb*                       auto         auto     defaults                     voldmanaged=usb:auto,encryptable=footer
-# add for recovery
-none                                                   /sdcard      emmc     defaults                     defaults

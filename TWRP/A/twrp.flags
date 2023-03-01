@@ -1,0 +1,12 @@
+# mount point    fstype   device                   device2       flags
+/system           ext4   /dev/block/mapper/system                flags=backup=0;removable
+/vendor           ext4   /dev/block/mapper/vendor                flags=backup=0;removable
+/product          ext4   /dev/block/mapper/product               flags=backup=0;removable
+/external_sd      vfat   /dev/block/mmcblk0p1 /dev/block/mmcblk0 flags=fsflags=utf8;display="MicroSD";storage;wipeingui;removable
+/vbmeta           emmc   /dev/block/nand0p8                      flags=backup=1;display="VBMeta";flashimg
+/vbmeta_system    emmc   /dev/block/nand0p9                      flags=backup=1;display="VBMeta System";flashimg
+/vbmeta_vendor    emmc   /dev/block/nand0p10                     flags=backup=1;display="VBMeta Vendor";flashimg
+/dtbo             emmc   /dev/block/nand0p15                     flags=backup=1;display=DTBO;flashimg
+/bootloader       emmc   /dev/block/nand0p1                      flags=backup=1;display=bootloader
+/frp              emmc   /dev/block/nand0p13                     flags=backup=1
+/env              emmc   /dev/block/nand0p2                    flags=backup=1
