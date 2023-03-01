@@ -1,22 +1,22 @@
-Chagelog:
+# Chagelog:
 TWRP_3.7_T8100_V2.zip (1/3/23)
 - Detection of more partitions (misc, dtbo, bootloader, env, frp)
 
 TWRP_3.7_T8100_ALFA.img.zip (1/3/23)
-Build Initial
+- Build Initial
 
 
-Works:
+# Works:
 - Touch
 - Fastbootd
 - ADB
 - Install zip
 - Dynamic Partions (more tests are needed)
 
-Fix compared to 3.5:
-- Various Storage
+# Fix compared to 3.5:
+- Various storage no longer appear
 
-No Working
+# No Working
 - Encriptions
 
 
