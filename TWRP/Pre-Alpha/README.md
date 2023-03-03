@@ -1,6 +1,7 @@
 # Chagelog:
 TWRP_3.7_T8100_V3.zip (3/3/23)
 - Support install .img on system and vendor.
+- Fix Detections of "System"
 
 TWRP_3.7_T8100_V2.zip (1/3/23)
 - Detection of more partitions (misc, dtbo, bootloader, env, frp)
@@ -21,7 +22,6 @@ TWRP_3.7_T8100_ALFA.img.zip (1/3/23)
 
 # No Working
 - Encriptions
-- "System" does not appear in the wipes area.
 
 
 Note: MTP eliminated due to lack of memory in the partition.
