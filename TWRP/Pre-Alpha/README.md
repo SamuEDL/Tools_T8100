@@ -14,13 +14,14 @@ TWRP_3.7_T8100_ALFA.img.zip (1/3/23)
 - Fastbootd
 - ADB
 - Install zip
-- Dynamic Partions (more tests are needed)
+- Dynamic Partions
 
 # Fix compared to 3.5:
 - Various storage no longer appear
 
 # No Working
 - Encriptions
+- "System" does not appear in the wipes area.
 
 
 Note: MTP eliminated due to lack of memory in the partition.
