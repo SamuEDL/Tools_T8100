@@ -1,4 +1,7 @@
 # Chagelog:
+TWRP_3.7_T8100_V3.zip (3/3/23)
+- Support install .img on system and vendor.
+
 TWRP_3.7_T8100_V2.zip (1/3/23)
 - Detection of more partitions (misc, dtbo, bootloader, env, frp)
 
