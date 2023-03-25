@@ -21,3 +21,4 @@
 | Android                    | 10  |
 | Kernel                    | 4.9.170  |
 | CodeName Alwinner Chipset | sun50iw10p1 |
+| Ceres | ceres_b3 |
