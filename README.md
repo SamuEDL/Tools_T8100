@@ -20,3 +20,4 @@
 | Acelerometter  / Acelerometro             | Mcube MC3416 (MC34xx)  |
 | Android                    | 10  |
 | Kernel                    | 4.9.170  |
+| CodeName Alwinner Chipset | sun50iw10p1 |
