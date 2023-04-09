@@ -6,7 +6,7 @@ The DTS has been extracted from the "dtb" of the Android 10 Kernel (ceres_b3-use
 ```
 dtc -I dtb -O dts dtb.img > T8100.dts
 ```
-**Note:** The DTS of the Teclast P80 has been uploaded to compare it with that of the T8100. But it doesn't support T8100.
+**Note:** The DTS of the Teclast P80 and QLink 1Gen CF has been uploaded to compare it with that of the T8100. But it doesn't support T8100.
 
 
 
@@ -18,4 +18,4 @@ El DTS ha sido extraido del dtb que hay en el Kernel de Android 10(ceres_b3-user
 ```
 dtc -I dtb -O dts dtb.img > T8100.dts
 ```
-**Nota:** Se ha subido el DTS del Teclast P80 para compararlo con el de la T8100. Pero no es compatible con T8100.
+**Nota:** Se ha subido el DTS del Teclast P80 y QLink 1Gen CF para compararlo con el de la T8100. Pero no es compatible con T8100.
