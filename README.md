@@ -22,3 +22,6 @@
 | Kernel                    | 4.9.170  |
 | CodeName Alwinner Chipset | sun50iw10p1 |
 | Ceres | ceres_b3 |
+
+
+Documentation that may be interesting (In Chinese): https://whycan.com/t_7738.html#p73832
